@@ -1,9 +1,8 @@
-# Security-ML
+# Security-ML: Inteligência Artificial e Machine Learning para Cybersecurity
+
 Slides and examples from our "Artificial Intelligence for Security" course @ FIAP 
 
 Slides in ppt. - https://drive.google.com/drive/folders/1NHbYmg2ArGLbr5EnBuGn0LKGgDqse9j8?usp=sharing
-
-# Security-ML: Inteligência Artificial e Machine Learning para Cybersecurity
 
 Este repositório contém materiais, códigos e recursos utilizados nas aulas de Inteligência Artificial e Machine Learning para Cybersecurity do MBA em Cybersecurity da FIAP.
 
